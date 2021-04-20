@@ -1,5 +1,5 @@
 # weather-php
-Weather forecast php
+Its a weather forecast php code which is showing daily and hourly weather of Ankara . I used  [One Call API](https://www.openweathermap.org/api/one-call-api)  from OpenWeatherMap for forecast information and Chart from [Google Chart](https://developers.google.com/chart)
 
 Login Page
 ![Login](https://github.com/drokbers/weather-php/blob/main/img/logon1.PNG?raw=true)
