@@ -3,7 +3,7 @@
 
 date_default_timezone_set('Europe/Istanbul');
 
-$googleApiUrl = "https://api.openweathermap.org/data/2.5/onecall?lat=39.92077&lon=32.85411&units=metric&lang=en&exclude=&appid=6c2f164333035b9bc46488b24ca1d4b2";
+$googleApiUrl = "https://api.openweathermap.org/data/2.5/onecall?lat=39.92077&lon=32.85411&units=metric&lang=en&exclude=&appid=xxxxxx";
 
 $ch = curl_init();
 
